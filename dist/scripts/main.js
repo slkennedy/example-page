@@ -1,1 +1,1 @@
-$(document).ready(function(){!function(){"use strict";$(window).load(function(){$(".flexslider").flexslider({prevText:"",nextText:""})})}()});
+!function(){"use strict";$(window).load(function(){$(".flexslider").flexslider({prevText:"",nextText:""})})}();
