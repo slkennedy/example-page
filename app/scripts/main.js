@@ -1,11 +1,13 @@
-(function (){
-	'use strict';
+$(document).ready(function (){
+	(function (){
+		'use strict';
 
-	$(window).load(function(){
-		$('.flexslider').flexslider({
-			prevText:'',
-			nextText: '',
+		$(window).load(function(){
+			$('.flexslider').flexslider({
+				prevText:'',
+				nextText: '',
+			});
 		});
-	});
-	
-})();
+		
+	})();	
+});
